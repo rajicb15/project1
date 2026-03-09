@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-int main() {
-    int num;
-    printf("Enter a number: ");
-    scanf("%d", &num);
-    printf("You entered: %d\n", num);
-    return 0;
+{
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("Hello, Raji");
+    }
 }
 
